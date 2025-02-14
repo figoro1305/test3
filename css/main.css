@@ -1,14 +1,14 @@
 body{
-    margin: 0 auto;
-    background: #555;
+    background: #daeed0;
 }
 h1{
     font-size: 50px;
     padding: 25px;
-    border: double 5px blue;
+    border: dotted 2px black;
+    color: red;
 }
 p{
     font-size: 25px;
     font-weight: bold;
-    color: white;
+    color: rgb(14, 100, 7);
 }
